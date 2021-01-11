@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi,
+
+It's Dawid. This is my first time using GitHub. 
+I love programming
